@@ -10,5 +10,5 @@ Seed para Laravel com Estados e Cidades com o código do IBGE
 
 Caso encontre algum erro, mande um PR que será muito bem vindo.
 
-#Versão alterado do https://github.com/paulodealmeida/Estados-Cidades-Laravel-Seed
-Queria que os nome dos campos fossem em português ;)
+# Versão alterado do https://github.com/paulodealmeida/Estados-Cidades-Laravel-Seed
+Alterei os nomes dos campos para português ;)
